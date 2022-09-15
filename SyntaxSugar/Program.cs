@@ -1,3 +1,5 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using SyntaxSugar;
+using static System.Console;
 
+
+Run.Withdrawl(600);
